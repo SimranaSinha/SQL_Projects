@@ -1,3 +1,4 @@
+create database Portfolio_prj1;
 use Portfolio_prj1;
 
 SELECT * 
